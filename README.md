@@ -121,4 +121,4 @@ Wir bieten regelmäßige Updates und Support für dieses System an. Bei Fragen, 
 
 ---
 
-© 2025 Dein Server Name. Alle Rechte vorbehalten.
+© 2025 RP-Ressourcen Hub. Alle Rechte vorbehalten.
